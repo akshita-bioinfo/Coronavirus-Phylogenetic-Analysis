@@ -120,6 +120,7 @@ taxize — taxonomic name lookup
 
 ## Repository Structure
 
+```
 Coronavirus-Phylogenetic-Analysis/ 
 │ 
 ├── README.md 
@@ -136,6 +137,7 @@ Coronavirus-Phylogenetic-Analysis/
 │ └── tanglegram_genome_vs_spike_ML.pdf 
 │ 
 └── .gitignore
+```
 
 ## Reproducibility
 
