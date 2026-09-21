@@ -1,10 +1,14 @@
 #################################################################
-# Phylogenetic Analysis of Coronavirus Genomes and Spike Proteins
+# Coronavirus Phylogenetic Analysis
+# BIOL 3315: Evolution and Phylogenetics
+# Langara College
 #
-# Description:
-# End-to-End phylogenetic analysis pipeline comparing coronavirus
-# genome sequences and spike protein sequences using distance-based
-# (Neighbor-Joining) and model-based (Maximum Likelihood) methods.
+# This script performs sequence alignment, phylogenetic analysis,
+# model selection, bootstrap analysis, and visualization of
+# coronavirus genome and spike protein sequences 
+#
+# Author: Akshita Sharma
+# Term: FALL 2025
 #
 # Methods:
 # - Multiple sequence alignment (ClustalW)
@@ -15,7 +19,6 @@
 # Tools:
 # R, ape, phangorn, msa, Biostrings, phytools, taxize
 #
-# Author: Akshita Sharma
 #################################################################
 
 # ---------------------------
