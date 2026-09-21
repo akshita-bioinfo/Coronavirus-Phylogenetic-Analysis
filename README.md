@@ -149,7 +149,6 @@ The results/ directory is created automatically by the script if it does not alr
 
 To reproduce the analysis, an R environment with the required packages installed is needed.
 
-The sequence datasets are accessed from their original course GitHub location rather than being stored or redistributed in this repository.
 
 ## Project Context
 
